@@ -1,24 +1,24 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/sanket1815/sanket1815.github.io/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Personal Portfolio Website
 </h1>
 <p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted using <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The second iteration of <a href="https://sanket1815.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted using <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
-<p align="center">
+<!-- <p align="center">
   Previous iterations:
   <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
-</p>
+</p> -->
 
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
-</div>
+</div> -->
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+<!-- Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks! -->
 
 ## 🛠 Installation & Set Up
 
