@@ -5,7 +5,7 @@
   Personal Portfolio Website
 </h1>
 <p align="center">
-  The second iteration of <a href="https://sanket1815.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted using <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The second iteration of <a href="https://sanket1815.github.io/" target="_blank">sanket1815.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted using <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 <!-- <p align="center">
   Previous iterations:
